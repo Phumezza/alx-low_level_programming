@@ -6,7 +6,6 @@
  */
 
 int main(void)
-
 {
 	int counter;
 	int countto = 50;
